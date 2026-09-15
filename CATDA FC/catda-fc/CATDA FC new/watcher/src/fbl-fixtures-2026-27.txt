@@ -1,0 +1,102 @@
+2026/27 Season - First Round
+
+No. DATE HOME TEAM AWAY TEAM TIME VENUE
+Match Day 1
+1 27/09/2026 Buwambo United FC vs Young Elephant Academy FC 4:00 pm Mwererwe Matugga Ground
+2 27/09/2026 CATDA FC vs Rwenzori Lions FC 4:00 pm Hamz Stadium-Nakivubo
+3 27/09/2026 Iganga United FC vs Pakwach Young Stars FC 4:00 pm Prime Vocational Institute Playground
+4 27/09/2026 Kaaro Karungi FC vs Paidha Black Angels SC 4:00 pm Kyamate Play Ground
+5 27/09/2026 Kiyinda Boys FC vs Onduparaka FC 4:00 pm Betharm City Recreation Centre-Kiwend
+Match Day 2
+6 04/10/2026 Paidha Black Angels SC vs Kiyinda Boys FC 4:00 pm Bar Okoro
+7 04/10/2026 Pakwach Young Stars FC vs Kaaro Karungi FC 4:00 pm Luo Gounds
+8 04/10/2026 Rwenzori Lions FC vs Iganga United FC 4:00 pm Nyamambuka Play Ground -Kasese
+9 04/10/2026 SC Volcanoes vs CATDA FC 4:00 pm St. Paul Mutolere SS Playground
+10 04/10/2026 Young Elephant Academy FC vs Calvary FC 4:00 pm Elephants Park-Nwoya
+11 04/10/2026 Amus College FC vs Buwambo United FC 4:00 pm Amus College Stadium
+12 08/10/2026 Calvary FC vs Kaaro Karungi FC 4:00 pm Midigo P/S Play Ground – Yumbe
+Match Day 3
+13 11/10/2026 Calvary FC vs Amus College FC 4:00 pm Midigo P/S Play Ground – Yumbe
+14 11/10/2026 CATDA FC vs Young Elephant Academy FC 4:00 pm Hamz Stadium-Nakivubo
+15 11/10/2026 Iganga United FC vs SC Volcanoes 4:00 pm Prime Vocational Institute Playground
+16 11/10/2026 Kaaro Karungi FC vs Rwenzori Lions FC 4:00 pm Kyamate Play Ground
+17 11/10/2026 Kiyinda Boys FC vs Pakwach Young Stars FC 4:00 pm Betharm City Recreation Centre-Kiwend
+18 11/10/2026 Onduparaka FC vs Paidha Black Angels SC 4:00 pm Green Light Stadium-Arua
+Match Day 4
+19 18/10/2026 Pakwach Young Stars FC vs Onduparaka FC 4:00 pm Luo Gounds
+20 18/10/2026 Rwenzori Lions FC vs Kiyinda Boys FC 4:00 pm Nyamambuka Play Ground -Kasese
+21 18/10/2026 SC Volcanoes vs Kaaro Karungi FC 4:00 pm St. Paul Mutolere SS Playground
+No. DATE HOME TEAM AWAY TEAM TIME VENUE
+22 15/10/2026 Paidha Black Angels SC vs Iganga United FC 4:00 pm Elephants Park-Nwoya
+23 18/10/2026 Amus College FC vs CATDA FC 4:00 pm Amus College Stadium
+24 18/10/2026 Buwambo United FC vs Calvary FC 4:00 pm Mwererwe Matugga Ground
+25 18/10/2026 Young Elephant Academy FC vs Iganga United FC 4:00 pm Elephants Park-Nwoya
+Match Day 5
+26 25/10/2026 CATDA FC vs Buwambo United FC 4:00 pm Hamz Stadium-Nakivubo
+27 25/10/2026 Iganga United FC vs Amus College FC 4:00 pm Prime Vocational Institute Playground
+28 25/10/2026 Kaaro Karungi FC vs Young Elephant Academy FC 4:00 pm Kyamate Play Ground
+29 25/10/2026 Kiyinda Boys FC vs SC Volcanoes 4:00 pm Betharm City Recreation Centre-Kiwend
+30 25/10/2026 Onduparaka FC vs Rwenzori Lions FC 4:00 pm Green Light Stadium-Arua
+31 25/10/2026 Paidha Black Angels SC vs Pakwach Young Stars FC 4:00 pm Bar Okoro
+Match Day 6
+32 01/11/2026 Rwenzori Lions FC vs Paidha Black Angels SC 4:00 pm Nyamambuka Play Ground -Kasese
+33 01/11/2026 SC Volcanoes vs Onduparaka FC 4:00 pm St. Paul Mutolere SS Playground
+34 01/11/2026 Young Elephant Academy FC vs Kiyinda Boys FC 4:00 pm Elephants Park-Nwoya
+35 01/11/2026 Amus College FC vs Kaaro Karungi FC 4:00 pm Amus College Stadium
+36 01/11/2026 Buwambo United FC vs Iganga United FC 4:00 pm Mwererwe Matugga Ground
+37 01/11/2026 Calvary FC vs CATDA FC 4:00 pm Midigo P/S Play Ground – Yumbe
+Match Day 7
+38 05/11/2026 Young Elephant Academy FC vs Rwenzori Lions FC 4:00 pm Elephants Park-Nwoya
+39 05/11/2026 Calvary FC vs SC Volcanoes 4:00 pm Midigo P/S Play Ground – Yumbe
+40 08/11/2026 Kaaro Karungi FC vs Buwambo United FC 4:00 pm Kyamate Play Ground
+41 08/11/2026 Kiyinda Boys FC vs Amus College FC 4:00 pm Betharm City Recreation Centre-Kiwend
+42 08/11/2026 Onduparaka FC vs Young Elephant Academy FC 4:00 pm Green Light Stadium-Arua
+43 08/11/2026 Paidha Black Angels SC vs SC Volcanoes 4:00 pm Bar Okoro
+44 08/11/2026 Pakwach Young Stars FC vs Rwenzori Lions FC 4:00 pm Luo Gounds
+No. DATE HOME TEAM AWAY TEAM TIME VENUE
+45 11/11/2026 Iganga United FC vs Calvary FC 4:00 pm Prime Vocational Institute Playground
+Match Day 8
+46 15/11/2026 SC Volcanoes vs Pakwach Young Stars FC 4:00 pm St. Paul Mutolere SS Playground
+47 15/11/2026 Young Elephant Academy FC vs Paidha Black Angels SC 4:00 pm Elephants Park-Nwoya
+48 15/11/2026 Amus College FC vs Onduparaka FC 4:00 pm Amus College Stadium
+49 15/11/2026 Buwambo United FC vs Kiyinda Boys FC 4:00 pm Mwererwe Matugga Ground
+50 15/11/2026 CATDA FC vs Iganga United FC 4:00 pm Hamz Stadium-Nakivubo
+Match Day 9
+51 22/11/2026 Kaaro Karungi FC vs CATDA FC 4:00 pm Kyamate Play Ground
+52 22/11/2026 Kiyinda Boys FC vs Calvary FC 4:00 pm Betharm City Recreation Centre-Kiwend
+53 22/11/2026 Onduparaka FC vs Buwambo United FC 4:00 pm Green Light Stadium-Arua
+54 22/11/2026 Paidha Black Angels SC vs Amus College FC 4:00 pm Bar Okoro
+55 22/11/2026 Pakwach Young Stars FC vs Young Elephant Academy FC 4:00 pm Luo Gounds
+56 22/11/2026 Rwenzori Lions FC vs SC Volcanoes 4:00 pm Nyamambuka Play Ground -Kasese
+Match Day 10
+57 29/11/2026 Amus College FC vs Pakwach Young Stars FC 4:00 pm Amus College Stadium
+58 29/11/2026 Buwambo United FC vs Paidha Black Angels SC 4:00 pm Mwererwe Matugga Ground
+59 29/11/2026 Calvary FC vs Onduparaka FC 4:00 pm Midigo P/S Play Ground – Yumbe
+60 29/11/2026 CATDA FC vs Kiyinda Boys FC 4:00 pm Hamz Stadium-Nakivubo
+61 29/11/2026 Iganga United FC vs Kaaro Karungi FC 4:00 pm Prime Vocational Institute Playground
+Match Day 11
+62 06/12/2026 Kiyinda Boys FC vs Iganga United FC 4:00 pm Betharm City Recreation Centre-Kiwend
+63 06/12/2026 Onduparaka FC vs CATDA FC 4:00 pm Green Light Stadium-Arua
+64 06/12/2026 Paidha Black Angels SC vs Calvary FC 4:00 pm Bar Okoro
+65 06/12/2026 Pakwach Young Stars FC vs Buwambo United FC 4:00 pm Luo Gounds
+No. DATE HOME TEAM AWAY TEAM TIME VENUE
+66 06/12/2026 Rwenzori Lions FC vs Amus College FC 4:00 pm Nyamambuka Play Ground -Kasese
+67 06/12/2026 SC Volcanoes vs Young Elephant Academy FC 4:00 pm St. Paul Mutolere SS Playground
+Match Day 12
+68 13/12/2026 Amus College FC vs SC Volcanoes 4:00 pm Amus College Stadium
+69 13/12/2026 Buwambo United FC vs Rwenzori Lions FC 4:00 pm Mwererwe Matugga Ground
+70 13/12/2026 Calvary FC vs Pakwach Young Stars FC 4:00 pm Midigo P/S Play Ground – Yumbe
+71 13/12/2026 CATDA FC vs Paidha Black Angels SC 4:00 pm Hamz Stadium-Nakivubo
+72 13/12/2026 Iganga United FC vs Onduparaka FC 4:00 pm Prime Vocational Institute Playground
+73 13/12/2026 Kaaro Karungi FC vs Kiyinda Boys FC 4:00 pm Kyamate Play Ground
+Match Day 13
+74 20/12/2026 Onduparaka FC vs Kaaro Karungi FC 4:00 pm Green Light Stadium-Arua
+75 20/12/2026 Pakwach Young Stars FC vs CATDA FC 4:00 pm Luo Gounds
+76 20/12/2026 Rwenzori Lions FC vs Calvary FC 4:00 pm Nyamambuka Play Ground -Kasese
+77 20/12/2026 SC Volcanoes vs Buwambo United FC 4:00 pm St. Paul Mutolere SS Playground
+78 20/12/2026 Young Elephant Academy FC vs Amus College FC 4:00 pm Elephants Park-Nwoya
+Notes:
+1. The Fixtures were drawn in line with the FUFA 2026/27 Activity Calendar 
+2. The Fixture may be altered in accordance with FUFA Rules
+3. These Fixtures may change due to Television Broadcast Schedules (TV)  
+Competitions Department
