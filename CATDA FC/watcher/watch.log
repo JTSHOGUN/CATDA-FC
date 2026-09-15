@@ -1,0 +1,4 @@
+2026-09-15T15:29:16  check done: 30 posts scanned, 0 proposals drafted
+2026-09-15T15:30:05  watcher loop started, interval 21600s
+2026-09-15T15:30:06  check done: 30 posts scanned, 0 proposals drafted
+2026-09-15T15:35:21  applied /home/user/watcher/proposals/20260915-fixtures.json: fixtures: 12 entries installed, 2025/26 list archived; nextFixture: copy, headline, opponent, status, venue; news: FUFA release 2026/27 Big League fixtures; season opens on 27 September (backup data-20260915-153521.json)

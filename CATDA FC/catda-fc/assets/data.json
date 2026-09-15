@@ -1,0 +1,1159 @@
+{
+  "meta": {
+    "dataUpdated": "2026-09-10",
+    "buildStage": "staging, pre-launch pending domain connection",
+    "verificationNote": "Every factual claim on this site is sourced. Primary sources are FUFA publications (club licensing decisions, the Article 13 ownership register, licensing timelines), published match reports and the club's own channels. Anything not yet confirmed by a primary source is shown as TBC or as an empty state. Nothing is estimated."
+  },
+  "club": {
+    "name": "CATDA Football Club",
+    "shortName": "CATDA FC",
+    "acronym": "CATDA",
+    "officialExpansion": "City Abattoir Traders Development Association",
+    "expansionStatus": "CONFIRMED. The FUFA 2nd Division Club Ownership register 2025/26 lists the subscriber as \"City Abattiour Traders Development Association\" (FUFA's spelling of Abattoir) holding 35%.",
+    "nickname": "The Lufula Boys",
+    "nicknameAlt": "Lufala Boys",
+    "motto": "Kick With Skills",
+    "founded": "Not stated in any primary source. The club's own record begins with the 2017/18 Nakawa District title.",
+    "city": "Kampala",
+    "country": "Uganda",
+    "homeArea": "Lufula, Industrial Area, Old Port Bell Road, Kampala",
+    "association": "Kampala Regional Football Association, affiliated to FUFA",
+    "league": "FUFA Big League",
+    "leagueTier": 2,
+    "leagueSize": 14,
+    "seasonLabel": "2026/27",
+    "seasonStarts": "2026-09-27",
+    "lastSeasonPosition": 10,
+    "email": "catdaclub@gmail.com",
+    "emailAlt": "catdafootballclub@gmail.com",
+    "phone": "+256 758 727 647",
+    "domain": "catdafc.com",
+    "domainStatus": "Listed on the club's official profiles. Not resolving publicly at build time. DNS connection is the final launch step, see LAUNCH-CHECKLIST.md.",
+    "social": {
+      "x": "https://x.com/FcCatda",
+      "xLegacy": "https://x.com/CatdaClub",
+      "facebook": "https://www.facebook.com/Catdafc/"
+    },
+    "brand": {
+      "cyan": "#1C9FCD",
+      "cyanText": "#0B7BA3",
+      "cyanDeep": "#08617F",
+      "red": "#CE2C33",
+      "redText": "#B0252B",
+      "ink": "#17141A",
+      "paper": "#FFFFFF",
+      "note": "Sampled pixel-by-pixel from the club's official crest as published in the FUFA 2nd Division Club Ownership register 2025/26. Kit colours remain unconfirmed and are not claimed anywhere on this site."
+    }
+  },
+  "ownership": {
+    "source": "FUFA 2nd Division Club Ownership 2025-2026 register, published 11 May 2026 under Article 13 of the FUFA Club Ownership and Registration Regulations 2025. Source line on the register: \"Club Licensing documents as submitted by the clubs 2025/2026\".",
+    "sourceUrl": "https://fufa.co.ug/fufa-big-league-club-ownership-2025-26-season/",
+    "certificateImage": "assets/img/source/fufa-catda-ownership.jpeg",
+    "ownerType": "Natural persons together with the traders' association",
+    "shareholders": [
+      {
+        "name": "City Abattoir Traders Development Association",
+        "share": 35,
+        "type": "association"
+      },
+      {
+        "name": "Ndugga Musa",
+        "share": 15,
+        "type": "natural person"
+      },
+      {
+        "name": "Ssenyomo Fred",
+        "share": 10,
+        "type": "natural person"
+      },
+      {
+        "name": "Kibombo Muhammed",
+        "share": 10,
+        "type": "natural person"
+      },
+      {
+        "name": "Kizito Mustafah",
+        "share": 10,
+        "type": "natural person"
+      },
+      {
+        "name": "Mugabi Hassan",
+        "share": 10,
+        "type": "natural person"
+      },
+      {
+        "name": "Kasibante Geofrey",
+        "share": 10,
+        "type": "natural person"
+      }
+    ]
+  },
+  "licensing": {
+    "status2025_26": "Licensed. The FUFA Club Licensing Committee confirmed 14 FUFA Big League clubs for the 2025/26 season on 23 August 2025. CATDA FC is named among the clubs granted a licence.",
+    "status2025_26Url": "https://fufa.co.ug/club-licensing-committee-confirms-fufa-big-league-clubs-for-2025-26/",
+    "stadiumNote": "The same FUFA decision listed Bugolobi Coffee Grounds among venues not approved at first inspection, with a second inspection scheduled for 24 to 30 August 2025 before a final decision. CATDA played their 2025/26 home fixtures at Bugolobi Coffee Grounds, consistent with approval following the second inspection.",
+    "cycle2026_27": {
+      "processReleased": "2026-06-22",
+      "expressionOfInterest": "2026-07-10",
+      "finalSubmission": "2026-08-10",
+      "physicalInspections": "2026-08-01 to 2026-08-10",
+      "firstInstanceBody": "2026-08-17 to 2026-08-18",
+      "appeals": "2026-08-21",
+      "licencesIssued": "2026-08-24",
+      "fixturesReleased": "2026-09-15",
+      "kickoff": "2026-09-27",
+      "sourceUrl": "https://fufa.co.ug/fufa-releases-club-licensing-core-process-for-the-2026-27-fwsl-fbl-and-fwel-seasons/",
+      "note": "CATDA FC were not relegated in 2025/26 and compete in the 2026/27 FUFA Big League. The individual 2026/27 licence certificate is published by FUFA on 24 August 2026 and will be added to this page when the club receives its copy."
+    },
+    "regulations": [
+      {
+        "name": "FUFA Men's Club Licensing Regulations, Edition 2026",
+        "url": "https://fufa.co.ug/document/fufa-mens-club-licensing-regulations-2026-edition/"
+      },
+      {
+        "name": "FUFA Stadium Classification Regulations, Edition 2026",
+        "url": "https://fufa.co.ug/document/fufa-stadium-classification-regulations-2026-edition/"
+      },
+      {
+        "name": "FUFA Club Ownership and Registration Regulations 2025",
+        "url": "https://fufa.co.ug/fufa-big-league-club-ownership-2025-26-season/"
+      }
+    ]
+  },
+  "governance": [
+    {
+      "body": "FIFA",
+      "role": "Global governing body of association football",
+      "url": "https://www.fifa.com"
+    },
+    {
+      "body": "CAF",
+      "role": "Confederation of African Football, continental governance and the CAF Confederation Cup route via the Uganda Cup",
+      "url": "https://www.cafonline.com"
+    },
+    {
+      "body": "FUFA",
+      "role": "Federation of Uganda Football Associations. Operates the FUFA Big League and the Stanbic Uganda Cup. Club licensing is decided by the First Instance Body Club Licensing Committee, with appeals to the FUFA Licensing Appeals Committee",
+      "url": "https://fufa.co.ug"
+    },
+    {
+      "body": "Kampala Regional Football Association",
+      "role": "Regional administration for Kampala clubs, including the Kampala Regional League from which CATDA were promoted",
+      "url": "https://fufa.co.ug"
+    }
+  ],
+  "partners": {
+    "leagueNaming": {
+      "name": "StarTimes",
+      "scope": "Naming and broadcast rights of the Uganda Premier League and the FUFA Big League since August 2018",
+      "sourceUrl": "https://www.fufa.co.ug/startimes-take-naming-broadcasting-rights-uganda-premier-league/"
+    },
+    "cupNaming": {
+      "name": "Stanbic Bank",
+      "scope": "Title sponsor of the Stanbic Uganda Cup",
+      "sourceUrl": "https://fufa.co.ug"
+    },
+    "federationPartners": [
+      {
+        "name": "MTN Uganda",
+        "url": "https://www.mtn.co.ug"
+      },
+      {
+        "name": "Stanbic Bank",
+        "url": ""
+      },
+      {
+        "name": "Nile Special",
+        "url": "https://www.nilespecial.co.ug"
+      },
+      {
+        "name": "BUL",
+        "url": "https://www.bul.co.ug"
+      },
+      {
+        "name": "betPawa",
+        "url": ""
+      },
+      {
+        "name": "Nivana",
+        "url": ""
+      },
+      {
+        "name": "Janzi",
+        "url": ""
+      }
+    ],
+    "federationPartnersNote": "Listed as FUFA partners in the official partner band on fufa.co.ug. They partner the federation and its competitions, not CATDA FC individually.",
+    "clubPartners": [],
+    "clubPartnersNote": "CATDA FC have no publicly announced commercial partners at the time of this build. Partner inventory for 2026/27 is open. See the contact page."
+  },
+  "grounds": [
+    {
+      "name": "Hamz Stadium-Nakivubo",
+      "role": "Home ground, 2026/27 FUFA Big League",
+      "location": "Nakivubo, Kampala",
+      "verified": true
+    },
+    {
+      "name": "Bugolobi Coffee Grounds",
+      "role": "Home ground, 2025/26 FUFA Big League",
+      "location": "Bugolobi, Kampala",
+      "verified": true
+    },
+    {
+      "name": "Kakungulu Memorial School Grounds",
+      "role": "Uganda Cup ties",
+      "location": "Kibuli, Kampala",
+      "verified": true
+    },
+    {
+      "name": "Kiira Road Police Playground",
+      "role": "Former home, Kampala Regional League",
+      "location": "Kiira Road, Kampala",
+      "verified": true
+    },
+    {
+      "name": "MTN Omondi Stadium",
+      "role": "Neutral venue, 2024/25 Kampala region play-off final",
+      "location": "Lugogo, Kampala",
+      "verified": true
+    },
+    {
+      "name": "Muteesa II Stadium",
+      "role": "Neutral venue, 2023/24 Kampala region play-off final",
+      "location": "Wankulukuku, Kampala",
+      "verified": true
+    },
+    {
+      "name": "FUFA Technical Centre",
+      "role": "Neutral venue, regional and inter-regional play-offs",
+      "location": "Njeru",
+      "verified": true
+    }
+  ],
+  "standings": {
+    "competition": "FUFA Big League",
+    "season": "2025/26",
+    "final": true,
+    "note": "Final table after 30 match days. The top four were promoted to the StarTimes Uganda Premier League. The bottom four were relegated. An asterisk marks a club carrying a FUFA sanction.",
+    "rows": [
+      {
+        "pos": 1,
+        "team": "Blacks Power",
+        "p": 30,
+        "w": 16,
+        "d": 7,
+        "l": 7,
+        "gf": 35,
+        "ga": 18,
+        "pts": 55,
+        "tag": "Champions, promoted"
+      },
+      {
+        "pos": 2,
+        "team": "Ntugasaze FC",
+        "p": 30,
+        "w": 14,
+        "d": 11,
+        "l": 5,
+        "gf": 42,
+        "ga": 22,
+        "pts": 53,
+        "tag": "Promoted"
+      },
+      {
+        "pos": 3,
+        "team": "Kataka FC",
+        "p": 30,
+        "w": 16,
+        "d": 3,
+        "l": 11,
+        "gf": 40,
+        "ga": 26,
+        "pts": 51,
+        "tag": "Promoted"
+      },
+      {
+        "pos": 4,
+        "team": "Kigezi Home Boyz",
+        "p": 30,
+        "w": 14,
+        "d": 9,
+        "l": 7,
+        "gf": 36,
+        "ga": 22,
+        "pts": 51,
+        "tag": "Promoted"
+      },
+      {
+        "pos": 5,
+        "team": "Paidha Black Angels *",
+        "p": 30,
+        "w": 15,
+        "d": 7,
+        "l": 8,
+        "gf": 33,
+        "ga": 23,
+        "pts": 50,
+        "tag": ""
+      },
+      {
+        "pos": 6,
+        "team": "Bunyaruguru United",
+        "p": 30,
+        "w": 12,
+        "d": 7,
+        "l": 11,
+        "gf": 31,
+        "ga": 25,
+        "pts": 43,
+        "tag": ""
+      },
+      {
+        "pos": 7,
+        "team": "Kiyinda Boys *",
+        "p": 30,
+        "w": 12,
+        "d": 6,
+        "l": 12,
+        "gf": 38,
+        "ga": 31,
+        "pts": 40,
+        "tag": ""
+      },
+      {
+        "pos": 8,
+        "team": "Young Elephants *",
+        "p": 30,
+        "w": 12,
+        "d": 6,
+        "l": 12,
+        "gf": 42,
+        "ga": 40,
+        "pts": 40,
+        "tag": ""
+      },
+      {
+        "pos": 9,
+        "team": "Iganga United",
+        "p": 30,
+        "w": 11,
+        "d": 5,
+        "l": 14,
+        "gf": 30,
+        "ga": 33,
+        "pts": 38,
+        "tag": ""
+      },
+      {
+        "pos": 10,
+        "team": "CATDA FC",
+        "p": 30,
+        "w": 9,
+        "d": 10,
+        "l": 11,
+        "gf": 24,
+        "ga": 32,
+        "pts": 37,
+        "tag": "",
+        "us": true
+      },
+      {
+        "pos": 11,
+        "team": "Kaaro Karungi *",
+        "p": 30,
+        "w": 10,
+        "d": 8,
+        "l": 12,
+        "gf": 26,
+        "ga": 30,
+        "pts": 36,
+        "tag": ""
+      },
+      {
+        "pos": 12,
+        "team": "Onduparaka FC",
+        "p": 30,
+        "w": 9,
+        "d": 9,
+        "l": 12,
+        "gf": 24,
+        "ga": 32,
+        "pts": 36,
+        "tag": ""
+      },
+      {
+        "pos": 13,
+        "team": "Nebbi Central *",
+        "p": 30,
+        "w": 9,
+        "d": 9,
+        "l": 12,
+        "gf": 35,
+        "ga": 42,
+        "pts": 34,
+        "tag": "Relegated"
+      },
+      {
+        "pos": 14,
+        "team": "Soltilo Bright Stars",
+        "p": 30,
+        "w": 7,
+        "d": 11,
+        "l": 12,
+        "gf": 25,
+        "ga": 31,
+        "pts": 32,
+        "tag": "Relegated"
+      },
+      {
+        "pos": 15,
+        "team": "Wakiso Giants",
+        "p": 30,
+        "w": 8,
+        "d": 7,
+        "l": 15,
+        "gf": 31,
+        "ga": 48,
+        "pts": 31,
+        "tag": "Relegated"
+      },
+      {
+        "pos": 16,
+        "team": "Mbale Heroes *",
+        "p": 30,
+        "w": 6,
+        "d": 5,
+        "l": 19,
+        "gf": 14,
+        "ga": 67,
+        "pts": 17,
+        "tag": "Relegated"
+      }
+    ]
+  },
+  "results": [
+    {
+      "date": "2026-09-27",
+      "comp": "FUFA Big League",
+      "md": "MD1",
+      "venue": "Hamz Stadium-Nakivubo (H)",
+      "home": "CATDA FC",
+      "away": "Rwenzori Lions FC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    },
+    {
+      "date": "2026-10-04",
+      "comp": "FUFA Big League",
+      "md": "MD2",
+      "venue": "St. Paul Mutolere SS Playground (A)",
+      "home": "SC Volcanoes",
+      "away": "CATDA FC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    },
+    {
+      "date": "2026-10-11",
+      "comp": "FUFA Big League",
+      "md": "MD3",
+      "venue": "Hamz Stadium-Nakivubo (H)",
+      "home": "CATDA FC",
+      "away": "Young Elephant Academy FC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    },
+    {
+      "date": "2026-10-18",
+      "comp": "FUFA Big League",
+      "md": "MD4",
+      "venue": "Amus College Stadium (A)",
+      "home": "Amus College FC",
+      "away": "CATDA FC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    },
+    {
+      "date": "2026-10-25",
+      "comp": "FUFA Big League",
+      "md": "MD5",
+      "venue": "Hamz Stadium-Nakivubo (H)",
+      "home": "CATDA FC",
+      "away": "Buwambo United FC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    },
+    {
+      "date": "2026-11-01",
+      "comp": "FUFA Big League",
+      "md": "MD6",
+      "venue": "Midigo P/S Play Ground, Yumbe (A)",
+      "home": "Calvary FC",
+      "away": "CATDA FC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    },
+    {
+      "date": "2026-11-15",
+      "comp": "FUFA Big League",
+      "md": "MD8",
+      "venue": "Hamz Stadium-Nakivubo (H)",
+      "home": "CATDA FC",
+      "away": "Iganga United FC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    },
+    {
+      "date": "2026-11-22",
+      "comp": "FUFA Big League",
+      "md": "MD9",
+      "venue": "Kyamate Play Ground (A)",
+      "home": "Kaaro Karungi FC",
+      "away": "CATDA FC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    },
+    {
+      "date": "2026-11-29",
+      "comp": "FUFA Big League",
+      "md": "MD10",
+      "venue": "Hamz Stadium-Nakivubo (H)",
+      "home": "CATDA FC",
+      "away": "Kiyinda Boys FC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    },
+    {
+      "date": "2026-12-06",
+      "comp": "FUFA Big League",
+      "md": "MD11",
+      "venue": "Green Light Stadium, Arua (A)",
+      "home": "Onduparaka FC",
+      "away": "CATDA FC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    },
+    {
+      "date": "2026-12-13",
+      "comp": "FUFA Big League",
+      "md": "MD12",
+      "venue": "Hamz Stadium-Nakivubo (H)",
+      "home": "CATDA FC",
+      "away": "Paidha Black Angels SC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    },
+    {
+      "date": "2026-12-20",
+      "comp": "FUFA Big League",
+      "md": "MD13",
+      "venue": "Luo Grounds (A)",
+      "home": "Pakwach Young Stars FC",
+      "away": "CATDA FC",
+      "hs": null,
+      "as": null,
+      "status": "unrecorded"
+    }
+  ],
+  "nextFixture": {
+    "status": "confirmed",
+    "competition": "FUFA Big League 2026/27",
+    "kickoffDate": "2026-09-27",
+    "headline": "Season opener: Rwenzori Lions FC visit Hamz Stadium",
+    "copy": "CATDA open the 2026/27 FUFA Big League at home to Rwenzori Lions FC on Sunday 27 September 2026 at 4:00 pm, per the fixtures FUFA released on 15 September 2026.",
+    "opponent": "Rwenzori Lions FC",
+    "venue": "Hamz Stadium-Nakivubo"
+  },
+  "honors": [
+    {
+      "season": "2024/25",
+      "title": "Kampala Regional League, champions",
+      "result": "Beat Ntinda United 4-2 on penalties after 0-0 in the play-off final at MTN Omondi Stadium, Lugogo",
+      "outcome": "Promoted to the FUFA Big League",
+      "verified": true
+    },
+    {
+      "season": "2024/25",
+      "title": "Kampala region play-off MVP, Michael Abura",
+      "result": "Individual award",
+      "outcome": "",
+      "verified": true
+    },
+    {
+      "season": "2023/24",
+      "title": "KRL Scorpion Group, winners",
+      "result": "54 points from 21 games under head coach Michael Bukenya",
+      "outcome": "",
+      "verified": true
+    },
+    {
+      "season": "2023/24",
+      "title": "Kampala Regional League play-off final, runners-up",
+      "result": "Drew 1-1 with Proline FC at Muteesa II Stadium, Wankulukuku. Lost 6-7 on penalties",
+      "outcome": "Hudson Mbalire finished the season with 19 league goals",
+      "verified": true
+    },
+    {
+      "season": "2019/20",
+      "title": "Kampala regional play-off, winners",
+      "result": "Beat Edgars FC 2-0 at the FUFA Technical Centre, Njeru",
+      "outcome": "",
+      "verified": true
+    },
+    {
+      "season": "2019/20",
+      "title": "Inter-regional promotion final, runners-up",
+      "result": "Lost to Luweero United, the Buganda champions, at Njeru. The club's record gives the score as 1-0",
+      "outcome": "One match from the Big League",
+      "verified": "partly"
+    },
+    {
+      "season": "2017/18",
+      "title": "Nakawa District League, champions",
+      "result": "District title",
+      "outcome": "Promoted to the Kampala Regional League",
+      "verified": true
+    }
+  ],
+  "cupTies": [
+    {
+      "season": "2025/26",
+      "round": "Round of 64",
+      "tie": "Kumi United FC vs CATDA FC",
+      "venue": "Kumi",
+      "result": "TBC",
+      "story": "Drawn away to Kumi United in the Round of 64 of the Stanbic Uganda Cup. The result is not captured in the sources reviewed and will be added from the FUFA record.",
+      "verified": "draw only"
+    },
+    {
+      "season": "2024/25",
+      "round": "Round of 32",
+      "tie": "CATDA FC 1-2 Kitara FC",
+      "venue": "Bugolobi Coffee Grounds",
+      "date": "2025-02-20",
+      "result": "Lost 1-2",
+      "story": "Drawn against the defending champions. CATDA, then a third-tier side, held Kitara goalless for 71 minutes before Patrick Kaddu scored. CATDA equalised in the 84th minute. An own goal by Martin Kikambwe three minutes later settled the tie. The holders needed an own goal to get past the Lufula Boys.",
+      "verified": true
+    },
+    {
+      "season": "2021/22",
+      "round": "Round of 64",
+      "tie": "KCCA FC 2-0 CATDA FC",
+      "venue": "Kampala",
+      "date": "2021-09",
+      "result": "Lost 0-2",
+      "story": "The tie that made the name. John Revita and Moses Aliro scored as the Ugandan champions laboured to a two-goal win. Afterwards KCCA manager Mike Mutebi, the most decorated coach in the country's modern era, gave CATDA the endorsement no grassroots club in Uganda can buy.",
+      "quote": {
+        "text": "They asked a lot of questions and we almost answered. It is the best side we have played against this season. They were threatening in every department.",
+        "attrib": "Mike Mutebi, KCCA FC manager",
+        "source": "goal.com, quoting New Vision, September 2021"
+      },
+      "verified": true
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2017/18",
+      "event": "Nakawa District champions",
+      "detail": "CATDA win the Nakawa District League and are promoted into the Kampala Regional League, the third tier of Ugandan football."
+    },
+    {
+      "year": "2018/19",
+      "event": "Established at tier three",
+      "detail": "A second-placed finish in a first Kampala Regional League season marks the club out as promotion contenders. The club is registered under the Kampala FA and playing out of Industrial Area."
+    },
+    {
+      "year": "Sep 2021",
+      "event": "The best side we have played, says KCCA",
+      "detail": "In the Stanbic Uganda Cup Round of 64, a third-tier CATDA take the Ugandan champions to the limit before losing 2-0. Mike Mutebi's verdict puts the club on the national map."
+    },
+    {
+      "year": "Oct 2020",
+      "event": "One match from the Big League",
+      "detail": "CATDA win the Kampala regional play-off 2-0 against Edgars at the FUFA Technical Centre in Njeru, missing three players and head coach Richard Amatre to positive COVID-19 tests, then lose the inter-regional final to Buganda champions Luweero United."
+    },
+    {
+      "year": "2023/24",
+      "event": "Top of the Scorpion Group, then penalties",
+      "detail": "CATDA top the KRL Scorpion Group with 54 points from 21 games. Hudson Mbalire scores 19. In the play-off final at Muteesa II Stadium they draw 1-1 with Proline and lose 6-7 on spot kicks."
+    },
+    {
+      "year": "Feb 2025",
+      "event": "Holding the cup holders",
+      "detail": "Drawn against defending Stanbic Uganda Cup champions Kitara in the Round of 32, CATDA keep them scoreless for 71 minutes and equalise in the 84th before an own goal decides it 2-1."
+    },
+    {
+      "year": "25 May 2025",
+      "event": "Champions of Kampala, promoted to the FUFA Big League",
+      "detail": "In heavy rain at MTN Omondi Stadium, Lugogo, CATDA beat Ntinda United 4-2 on penalties after 0-0 to win the Kampala region and take the tier-two place. Michael Abura is named play-off MVP."
+    },
+    {
+      "year": "23 Aug 2025",
+      "event": "Licensed by FUFA for the Big League",
+      "detail": "The FUFA Club Licensing Committee names CATDA FC among the 14 clubs granted a licence for the 2025/26 FUFA Big League. Bugolobi Coffee Grounds passes at the second stadium inspection."
+    },
+    {
+      "year": "2025/26",
+      "event": "First season in the FUFA Big League",
+      "detail": "Nine wins, ten draws, eleven defeats. 37 points and 10th of 16, three clear of the relegation places. Survival secured in a national 16-club division."
+    },
+    {
+      "year": "6 Jun 2026",
+      "event": "Final-day statement in Kabale",
+      "detail": "CATDA close their debut Big League campaign by beating promotion-chasing Kigezi Home Boyz 1-0 at the Al Madina Stadium in Kabale."
+    },
+    {
+      "year": "27 Sep 2026",
+      "event": "Season two begins",
+      "detail": "The 2026/27 FUFA Big League kicks off. CATDA return as an established national second-tier club."
+    }
+  ],
+  "people": {
+    "squad": [
+      {
+        "name": "Michael Abura",
+        "role": "First team",
+        "position": "",
+        "detail": "Kampala region play-off MVP, 2024/25. The award that sealed promotion."
+      }
+    ],
+    "staff": [],
+    "coaches": [
+      {
+        "name": "Michael Bukenya",
+        "role": "Head coach",
+        "period": "2023/24",
+        "detail": "Led the Scorpion Group title charge."
+      },
+      {
+        "name": "Richard Amatre",
+        "role": "Head coach",
+        "period": "2020",
+        "detail": "In charge during the 2019/20 play-off campaign."
+      }
+    ],
+    "alumni": [
+      {
+        "name": "Sharif \"Diao\" Ssengendo",
+        "moved": "KCCA FC",
+        "tier": "Uganda Premier League",
+        "detail": "Scored the winner against Kisugu United in January 2022, then went on to the top flight with KCCA. The clearest proof of the CATDA pathway."
+      },
+      {
+        "name": "Hudson Mbalire",
+        "moved": "",
+        "tier": "",
+        "detail": "19 goals in the 2023/24 Kampala Regional League, including the equaliser in the play-off final against Proline."
+      },
+      {
+        "name": "Michael Abura",
+        "moved": "",
+        "tier": "",
+        "detail": "2024/25 play-off MVP."
+      },
+      {
+        "name": "Dennis Ola",
+        "moved": "Club captain, 2020",
+        "tier": "",
+        "detail": "Skipper during the 2019/20 promotion run."
+      },
+      {
+        "name": "Ibra Banalya",
+        "moved": "",
+        "tier": "",
+        "detail": "Goalkeeper, 2019/20 play-offs."
+      },
+      {
+        "name": "Ivan Mayanja",
+        "moved": "",
+        "tier": "",
+        "detail": "Six goals in the 2019/20 KRL regular season."
+      },
+      {
+        "name": "Eric Bucha Ssebuguzi",
+        "moved": "",
+        "tier": "",
+        "detail": "Six goals in the 2019/20 KRL regular season."
+      },
+      {
+        "name": "Alex Mawanda",
+        "moved": "",
+        "tier": "",
+        "detail": "2019/20 squad."
+      },
+      {
+        "name": "Ronald Ssekiganda",
+        "moved": "",
+        "tier": "",
+        "detail": "2019/20 squad."
+      },
+      {
+        "name": "James Ssenabulya",
+        "moved": "",
+        "tier": "",
+        "detail": "2019/20 squad."
+      },
+      {
+        "name": "Frank Sebanenya",
+        "moved": "",
+        "tier": "",
+        "detail": "2019/20 squad."
+      }
+    ]
+  },
+  "community": {
+    "intro": "CATDA are owned by their community in the literal, legal sense. The FUFA ownership register records the City Abattoir Traders Development Association as the largest single subscriber at 35%, alongside six natural persons from the same community. No corporation, ministry or external investor holds a share.",
+    "pillars": [
+      {
+        "kicker": "01",
+        "title": "Community ownership",
+        "body": "The traders' association holds 35% and six individuals from the abattoir community hold the balance, per the FUFA register for 2025/26. Funding follows the same structure: contributions from inside the trading community rather than a single external owner."
+      },
+      {
+        "kicker": "02",
+        "title": "Youth pathway",
+        "body": "The squad is built from Kampala neighbourhood networks, teenagers and players in their early twenties. Sharif \"Diao\" Ssengendo is the proof of concept: a CATDA goalscorer in the Kampala Regional League who went on to play in the Uganda Premier League with KCCA FC."
+      },
+      {
+        "kicker": "03",
+        "title": "Governance",
+        "body": "CATDA submit to the full FUFA club licensing cycle every season: ownership declarations under Article 13, licensing documents, stadium inspections and player registration minimums. They have also taken part in FUFA Clubs Pro-Agenda governance engagement run through the Kampala Regional FA."
+      },
+      {
+        "kicker": "04",
+        "title": "Facilities",
+        "body": "The club owns no stadium. Home is the Bugolobi Coffee Grounds, which passed FUFA stadium classification at the second inspection in August 2025. Cup ties and play-off finals have been staged at Kakungulu Memorial School grounds, MTN Omondi Stadium, Muteesa II Stadium and the FUFA Technical Centre."
+      }
+    ],
+    "needs": [
+      "Floodlighting and stand improvements at Bugolobi Coffee Grounds to hold FUFA stadium classification each season",
+      "A squad retention fund to compete with Uganda Premier League wages for players the club developed",
+      "An away-travel budget for a national 16-club division spanning Kabale, Kumi, Mbale, Arua and Nebbi",
+      "A formal youth academy structure below the first team in Nakawa and Industrial Area",
+      "Commercial partners who want grassroots credibility and a documented national story"
+    ]
+  },
+  "identity": {
+    "pillars": [
+      {
+        "kicker": "Pillar 01",
+        "title": "The climb",
+        "body": "Nakawa District champions in 2017/18. Seven seasons in the Kampala Regional League. Two play-off final defeats, one on penalties and one by a single goal in an inter-regional decider. Then champions of the Kampala region in May 2025, a FUFA licence in August 2025, and a national second-tier place held ever since."
+      },
+      {
+        "kicker": "Pillar 02",
+        "title": "The giant killers",
+        "body": "Ugandan champions KCCA needed 90 hard minutes in the 2021 Uganda Cup and afterwards called CATDA the best side they had faced all season. Defending cup holders Kitara needed an own goal in the 87th minute to escape in 2025. Nobody draws CATDA in the cup and relaxes."
+      },
+      {
+        "kicker": "Pillar 03",
+        "title": "The Lufula",
+        "body": "The club belongs to the abattoir community on Old Port Bell Road. Traders, butchers and workers fund it, own it and fill the touchline with drums. The crest says it plainly: Kick With Skills, Lufula."
+      }
+    ],
+    "voice": [
+      "Direct.",
+      "Proud, never apologetic.",
+      "Specific: names, scores, dates, venues.",
+      "Working-class register, not corporate."
+    ]
+  },
+  "images": {
+    "hero": {
+      "src": "assets/img/hero-matchday.jpg",
+      "alt": "Evening match at a Kampala community ground: packed touchline, a drum, cyan and red flags, two players in a tackle"
+    },
+    "kabale": {
+      "src": "assets/img/news-kabale.jpg",
+      "alt": "Away match at a hillside stadium in south-western Uganda, mist over terraced hills behind a single stand"
+    },
+    "fans": {
+      "src": "assets/img/fans-lufula.jpg",
+      "alt": "Supporters on a touchline bench: a drummer, singers and plain cyan and red scarves"
+    },
+    "heritage": {
+      "src": "assets/img/club-heritage.jpg",
+      "alt": "Black and white morning street scene in a Kampala market district, traders, bicycles and a worn football on a crate"
+    },
+    "training": {
+      "src": "assets/img/training.jpg",
+      "alt": "Youth training session at dusk on a dusty Kampala pitch, cones and a coach with a stack of balls"
+    },
+    "promotion": {
+      "src": "assets/img/promotion.jpg",
+      "alt": "A team in soaked cyan kits lifting a cup in heavy rain under floodlights"
+    }
+  },
+  "press": [
+    {
+      "date": "2026-06-06",
+      "source": "Kawowo Sports",
+      "title": "Four clubs promoted, four demoted as the 2025/26 FUFA Big League climaxes",
+      "excerpt": "CATDA's shock 1-0 triumph over Kigezi Home Boyz in Kabale closed the debut season.",
+      "url": "https://kawowo.com/2026-06-06/four-clubs-promoted-four-demoted-as-the-2025-26-fufa-big-league-climaxes/",
+      "kind": "Match report"
+    },
+    {
+      "date": "2026-04-12",
+      "source": "Kawowo Sports",
+      "title": "2025/26 FUFA Big League: Blacks Power edge Wakiso Giants, return to summit",
+      "excerpt": "On Saturday, CATDA overcame Ntugasaze 2-1 at the Bugolobi Coffee playgrounds in Kampala.",
+      "url": "https://kawowo.com/2026-04-12/2025-26-fufa-big-league-blacks-power-edge-wakiso-giants-return-to-summit-of-standings/",
+      "kind": "Match report"
+    },
+    {
+      "date": "2026-03-28",
+      "source": "Kawowo Sports",
+      "title": "Blacks Power override Kigezi Home Boyz as Kataka close the gap after match day 20",
+      "excerpt": "Relegation threatened CATDA won 1-0 over visiting Young Elephants at the Bugolobi Coffee grounds in Kampala.",
+      "url": "https://kawowo.com/2026-03-28/fufa-big-league-2025-26-blacks-power-overrides-kigezi-home-boyz-as-kataka-closes-gap-after-match-day-20/",
+      "kind": "Match report"
+    },
+    {
+      "date": "2025-08-23",
+      "source": "FUFA",
+      "title": "Club Licensing Committee confirms FUFA Big League clubs for 2025/26",
+      "excerpt": "The clubs granted licence are Ntugasaze FC, Blacks Power FC, Kataka FC, Kiyinda Boys FC, Kigezi Homeboyz FC, Onduparaka FC, Wakiso Giants FC, Soltilo Bright Stars FC, Mbale Heroes FC, CATDA FC, Iganga United FC, Young Elephants Academy FC, Nebbi Central FC and Paidha Black Angels SC.",
+      "url": "https://fufa.co.ug/club-licensing-committee-confirms-fufa-big-league-clubs-for-2025-26/",
+      "kind": "Licensing"
+    },
+    {
+      "date": "2026-05-11",
+      "source": "FUFA",
+      "title": "FUFA Big League club ownership 2025/26 season",
+      "excerpt": "Ownership register published under Article 13 of the FUFA Club Ownership and Registration Regulations 2025. CATDA FC listed with the City Abattoir Traders Development Association at 35%.",
+      "url": "https://fufa.co.ug/fufa-big-league-club-ownership-2025-26-season/",
+      "kind": "Governance"
+    },
+    {
+      "date": "2025-05-26",
+      "source": "Kawowo Sports",
+      "title": "CATDA out-shoot Ntinda United to lift 2024-2025 Kampala region football trophy",
+      "excerpt": "0-0 after 90 minutes in heavy rain at MTN Omondi Stadium, Lugogo, then 4-2 on penalties. Michael Abura named MVP.",
+      "url": "https://kawowo.com/2025-05-26/catda-out-shoot-ntinda-united-to-lift-2024-2025-kampala-region-football-trophy/",
+      "kind": "Landmark"
+    },
+    {
+      "date": "2025-02-20",
+      "source": "MTN Sports",
+      "title": "Uganda Cup: Kitara edge CATDA to reach Round of 16",
+      "excerpt": "Despite dominating possession, the first half ended goalless as CATDA held strong. The holders needed an 87th-minute own goal.",
+      "url": "https://sports.mtn.co.ug/2025-02-20/uganda-cup-kitara-edge-catda-to-reach-round-of-16/",
+      "kind": "Cup"
+    },
+    {
+      "date": "2025-02-11",
+      "source": "Africa Top Sports",
+      "title": "Uganda Cup draw: holders Kitara FC to face Kampala region side CATDA",
+      "excerpt": "Cup holders Kitara FC were drawn against Kampala region side CATDA, who host their games at Kakungulu Memorial School playgrounds.",
+      "url": "https://en.africatopsports.com/2025-02-11/uganda-cup-draw-holders-kitara-fc-to-face-kampala-region-side-catda/",
+      "kind": "Draw"
+    },
+    {
+      "date": "2024-06-02",
+      "source": "Kawowo Sports",
+      "title": "Proline out-shoots CATDA to win the 2023-2024 Kampala Regional League",
+      "excerpt": "7-6 on penalties after 1-1 at Muteesa II Stadium. Lethal forward Hudson Mbalire replied for CATDA with 15 minutes left. His 19th goal of the season.",
+      "url": "https://kawowo.com/2024-06-02/proline-out-shoots-catda-to-win-the-2023-2024-kampala-regional-league/",
+      "kind": "Play-off final"
+    },
+    {
+      "date": "2024-05-31",
+      "source": "Swift Sports Uganda",
+      "title": "Kampala Regional League: Proline to face off with CATDA in playoff final",
+      "excerpt": "CATDA FC topped the Scorpion group with 54 points from 21 games. They are under head coach Michael Bukenya.",
+      "url": "https://swiftsportsug.com/2024-05-31/kampala-regional-league-proline-to-face-off-with-catda-in-playoff-final/",
+      "kind": "Preview"
+    },
+    {
+      "date": "2022-01-30",
+      "source": "Kawowo Sports",
+      "title": "CATDA, Fire Fire secure home victories on match day 8",
+      "excerpt": "CATDA secured a 1-0 home win over Kisugu United at the Kiira Road police playground. Sharif \"Diao\" Ssengendo scored the only goal.",
+      "url": "https://kawowo.com/2022-01-30/catda-fire-fire-secure-home-victories-on-match-day-8-kampala-regional-league-2021-2022/",
+      "kind": "Match report"
+    },
+    {
+      "date": "2021-09-27",
+      "source": "goal.com",
+      "title": "CATDA are the best side KCCA FC have faced this season, says Mutebi",
+      "excerpt": "They asked a lot of questions and we almost answered. It is the best side we have played against this season. They were threatening in every department.",
+      "url": "https://www.goal.com/en/news/catda-are-the-best-side-kcca-fc-have-faced-this-season/1j56q1tzudzom13wceu7rv98mu",
+      "kind": "Quote of record"
+    },
+    {
+      "date": "2020-10-22",
+      "source": "Kawowo Sports",
+      "title": "Kampala region play-offs: depleted CATDA in stern test against Edgars",
+      "excerpt": "CATDA went into the regional final without three players and head coach Richard Amatre through positive COVID-19 tests. They won 2-0 anyway.",
+      "url": "https://kawowo.com/2020-10-22/kampala-region-play-offs-depleted-catda-in-stern-test-against-edgars/",
+      "kind": "Play-off"
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-09-15",
+      "tag": "Fixtures",
+      "title": "FUFA release 2026/27 Big League fixtures; season opens on 27 September",
+      "body": "FUFA published the first-round fixtures for the 2026/27 FUFA Big League on 15 September 2026. The season kicks off on Sunday 27 September 2026 and the first round runs to 20 December 2026. CATDA open at home to Rwenzori Lions FC at Hamz Stadium-Nakivubo, then travel to SC Volcanoes in round two. Matchday details will follow here as the club confirms them.",
+      "status": "live",
+      "source": "https://fufa.co.ug/fufa-big-league-2026-27-season-fixtures-released/",
+      "image": "hero"
+    },
+    {
+      "date": "2026-09-01",
+      "tag": "Club statement",
+      "title": "Season two: CATDA FC return to the FUFA Big League",
+      "body": "The 2026/27 FUFA Big League kicks off on Sunday 27 September 2026, after FUFA released the first-round fixtures on 15 September 2026. CATDA return as an established national second-tier club after finishing 10th of 16 in their debut campaign with 37 points, three clear of the relegation places. Opening fixture details will be published here once confirmed by the club.",
+      "image": "hero",
+      "status": "live"
+    },
+    {
+      "date": "2026-06-06",
+      "tag": "Match report",
+      "title": "Kigezi Home Boyz 0-1 CATDA: a final-day statement in Kabale",
+      "body": "CATDA ended their first season in the FUFA Big League by travelling to the Al Madina Stadium in Kabale and beating a Kigezi Home Boyz side chasing promotion. The result confirmed survival with a win and sent the Lufula Boys into the off-season unbeaten in their last three recorded fixtures.",
+      "image": "kabale",
+      "status": "live"
+    },
+    {
+      "date": "2026-04-11",
+      "tag": "Match report",
+      "title": "CATDA 2-1 Ntugasaze: three points at Bugolobi",
+      "body": "Ntugasaze finished second in the division and were promoted to the StarTimes Uganda Premier League. CATDA beat them at the Bugolobi Coffee Grounds on match day 23.",
+      "image": "",
+      "status": "live"
+    },
+    {
+      "date": "2025-05-25",
+      "tag": "Landmark",
+      "title": "Champions of Kampala, promoted to the FUFA Big League",
+      "body": "In pouring rain at MTN Omondi Stadium, Lugogo, CATDA and Ntinda United played out a goalless 90 minutes in the 2024/25 Kampala region play-off final. On penalties CATDA won 4-2 and took the Kampala region's place in the FUFA Big League for 2025/26. Michael Abura was named Most Valuable Player of the play-offs.",
+      "image": "promotion",
+      "status": "live"
+    }
+  ],
+  "archive": {
+    "results_2025_26": [
+      {
+        "date": "2025-09-28",
+        "comp": "FUFA Big League",
+        "md": "MD1",
+        "venue": "Bugolobi Coffee Grounds (H)",
+        "home": "CATDA FC",
+        "away": "Kigezi Home Boyz",
+        "hs": null,
+        "as": null,
+        "status": "unrecorded",
+        "note": "Opening fixture of the club's first Big League season. Scoreline not captured in the sources reviewed."
+      },
+      {
+        "date": "2026-02-21",
+        "comp": "FUFA Big League",
+        "md": "MD16",
+        "venue": "Bugolobi Coffee Grounds (H)",
+        "home": "CATDA FC",
+        "away": "Soltilo Bright Stars",
+        "hs": 0,
+        "as": 1,
+        "status": "loss",
+        "note": "Published reports of this fixture conflict. The detailed match report records an Ashiraf Sozzi own goal deciding it. Under review against the FUFA record."
+      },
+      {
+        "date": "2026-03-16",
+        "comp": "FUFA Big League",
+        "md": "MD19",
+        "venue": "Away",
+        "home": "Blacks Power",
+        "away": "CATDA FC",
+        "hs": 2,
+        "as": 1,
+        "status": "loss",
+        "note": "Baker Buyala and Andrea Noll Ogwal scored for the eventual champions."
+      },
+      {
+        "date": "2026-03-28",
+        "comp": "FUFA Big League",
+        "md": "MD20",
+        "venue": "Bugolobi Coffee Grounds (H)",
+        "home": "CATDA FC",
+        "away": "Young Elephants",
+        "hs": 1,
+        "as": 0,
+        "status": "win",
+        "note": "A six-pointer in the relegation fight. Took CATDA to 22 points."
+      },
+      {
+        "date": "2026-04-05",
+        "comp": "FUFA Big League",
+        "md": "MD22",
+        "venue": "Mbale City Stadium (A)",
+        "home": "Kataka FC",
+        "away": "CATDA FC",
+        "hs": 2,
+        "as": 0,
+        "status": "loss",
+        "note": "Easter Sunday. Ali Sentamu and Ismail Tambula scored."
+      },
+      {
+        "date": "2026-04-11",
+        "comp": "FUFA Big League",
+        "md": "MD23",
+        "venue": "Bugolobi Coffee Grounds (H)",
+        "home": "CATDA FC",
+        "away": "Ntugasaze",
+        "hs": 2,
+        "as": 1,
+        "status": "win",
+        "note": "Beat the side that finished second and went up to the Uganda Premier League."
+      },
+      {
+        "date": "2026-04-19",
+        "comp": "FUFA Big League",
+        "md": "MD24",
+        "venue": "Away",
+        "home": "Kaaro Karungi",
+        "away": "CATDA FC",
+        "hs": 1,
+        "as": 0,
+        "status": "loss",
+        "note": ""
+      },
+      {
+        "date": "2026-05-23",
+        "comp": "FUFA Big League",
+        "md": "MD29",
+        "venue": "Bugolobi Coffee Grounds (H)",
+        "home": "CATDA FC",
+        "away": "Onduparaka",
+        "hs": null,
+        "as": null,
+        "status": "unrecorded",
+        "note": "Scoreline not captured in the sources reviewed."
+      },
+      {
+        "date": "2026-06-06",
+        "comp": "FUFA Big League",
+        "md": "MD30",
+        "venue": "Al Madina Stadium, Kabale (A)",
+        "home": "Kigezi Home Boyz",
+        "away": "CATDA FC",
+        "hs": 0,
+        "as": 1,
+        "status": "win",
+        "note": "Final day. A side chasing promotion beaten at home by a club fighting for survival."
+      }
+    ]
+  }
+}

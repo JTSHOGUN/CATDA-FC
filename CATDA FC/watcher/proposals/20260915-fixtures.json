@@ -1,0 +1,185 @@
+{
+  "id": "20260915-fixtures",
+  "created": "2026-09-15",
+  "source": {
+    "id": 98487,
+    "url": "https://fufa.co.ug/fufa-big-league-2026-27-season-fixtures-released/",
+    "title": "FUFA Big League 2026/27 Season Fixtures Released",
+    "date": "2026-09-15",
+    "attachment": "https://fufa.co.ug/wp-content/uploads/2026/09/FUFA-Big-League-Fixtures-2026-27-Season.pdf"
+  },
+  "items": [
+    {
+      "kind": "fixtures",
+      "approved": true,
+      "note": "12 CATDA rows parsed clean from the official PDF with pypdf. Match day 7 (8 Nov window) is missing: the away column of that block is corrupted in the published PDF, so the MD7 opponent must be confirmed with the club or FUFA before it is entered. Do not guess it.",
+      "entries": [
+        {
+          "date": "2026-09-27",
+          "comp": "FUFA Big League",
+          "md": "MD1",
+          "venue": "Hamz Stadium-Nakivubo (H)",
+          "home": "CATDA FC",
+          "away": "Rwenzori Lions FC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        },
+        {
+          "date": "2026-10-04",
+          "comp": "FUFA Big League",
+          "md": "MD2",
+          "venue": "St. Paul Mutolere SS Playground (A)",
+          "home": "SC Volcanoes",
+          "away": "CATDA FC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        },
+        {
+          "date": "2026-10-11",
+          "comp": "FUFA Big League",
+          "md": "MD3",
+          "venue": "Hamz Stadium-Nakivubo (H)",
+          "home": "CATDA FC",
+          "away": "Young Elephant Academy FC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        },
+        {
+          "date": "2026-10-18",
+          "comp": "FUFA Big League",
+          "md": "MD4",
+          "venue": "Amus College Stadium (A)",
+          "home": "Amus College FC",
+          "away": "CATDA FC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        },
+        {
+          "date": "2026-10-25",
+          "comp": "FUFA Big League",
+          "md": "MD5",
+          "venue": "Hamz Stadium-Nakivubo (H)",
+          "home": "CATDA FC",
+          "away": "Buwambo United FC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        },
+        {
+          "date": "2026-11-01",
+          "comp": "FUFA Big League",
+          "md": "MD6",
+          "venue": "Midigo P/S Play Ground, Yumbe (A)",
+          "home": "Calvary FC",
+          "away": "CATDA FC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        },
+        {
+          "date": "2026-11-15",
+          "comp": "FUFA Big League",
+          "md": "MD8",
+          "venue": "Hamz Stadium-Nakivubo (H)",
+          "home": "CATDA FC",
+          "away": "Iganga United FC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        },
+        {
+          "date": "2026-11-22",
+          "comp": "FUFA Big League",
+          "md": "MD9",
+          "venue": "Kyamate Play Ground (A)",
+          "home": "Kaaro Karungi FC",
+          "away": "CATDA FC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        },
+        {
+          "date": "2026-11-29",
+          "comp": "FUFA Big League",
+          "md": "MD10",
+          "venue": "Hamz Stadium-Nakivubo (H)",
+          "home": "CATDA FC",
+          "away": "Kiyinda Boys FC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        },
+        {
+          "date": "2026-12-06",
+          "comp": "FUFA Big League",
+          "md": "MD11",
+          "venue": "Green Light Stadium, Arua (A)",
+          "home": "Onduparaka FC",
+          "away": "CATDA FC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        },
+        {
+          "date": "2026-12-13",
+          "comp": "FUFA Big League",
+          "md": "MD12",
+          "venue": "Hamz Stadium-Nakivubo (H)",
+          "home": "CATDA FC",
+          "away": "Paidha Black Angels SC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        },
+        {
+          "date": "2026-12-20",
+          "comp": "FUFA Big League",
+          "md": "MD13",
+          "venue": "Luo Grounds (A)",
+          "home": "Pakwach Young Stars FC",
+          "away": "CATDA FC",
+          "hs": null,
+          "as": null,
+          "status": "unrecorded"
+        }
+      ]
+    },
+    {
+      "kind": "nextFixture",
+      "approved": true,
+      "fields": {
+        "status": "confirmed",
+        "opponent": "Rwenzori Lions FC",
+        "venue": "Hamz Stadium-Nakivubo",
+        "headline": "Season opener: Rwenzori Lions FC visit Hamz Stadium",
+        "copy": "CATDA open the 2026/27 FUFA Big League at home to Rwenzori Lions FC on Sunday 27 September 2026 at 4:00 pm, per the fixtures FUFA released on 15 September 2026."
+      }
+    },
+    {
+      "kind": "manual",
+      "approved": false,
+      "instruction": "Confirm with the club that Hamz Stadium-Nakivubo is the 2026/27 home ground (grounds section already updated from the fixture PDF) and confirm the MD7 opponent, then add that result entry by hand.",
+      "quotes": [
+        "Match day 7 block of the published PDF is corrupted in the away-team column"
+      ]
+    },
+    {
+      "kind": "news_draft",
+      "approved": true,
+      "entry": {
+        "date": "2026-09-15",
+        "tag": "Fixtures",
+        "title": "FUFA release 2026/27 Big League fixtures; season opens on 27 September",
+        "body": "FUFA published the first-round fixtures for the 2026/27 FUFA Big League on 15 September 2026. The season kicks off on Sunday 27 September 2026 and the first round runs to 20 December 2026. CATDA open at home to Rwenzori Lions FC at Hamz Stadium-Nakivubo, then travel to SC Volcanoes in round two. Matchday details will follow here as the club confirms them.",
+        "status": "live",
+        "source": "https://fufa.co.ug/fufa-big-league-2026-27-season-fixtures-released/",
+        "image": "hero"
+      },
+      "note": "Draft only. Rewrite in club voice before approving."
+    }
+  ]
+}
